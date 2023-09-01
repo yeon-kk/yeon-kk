@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yeonkyoung%20Kwak&animation=twinkling&fontSize=65&fontAlignY=37)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Yeonkyoung%20Kwak&animation=twinkling&fontSize=23&fontAlignY=25)
 
 <!--
 **yeon-kk/yeon-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
